@@ -1,0 +1,19 @@
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+
+# Large Audio Recordings (Optional)
+# Two audio files in LDS&TTDS/02_Ghi_Am_Bai_Giang/ total ~77.5MB (one file is 57MB, exceeding GitHub's 50MB warning threshold).
+# If you want to keep the repository lightweight (<50MB total) for fast clone/push, uncomment the line below:
+# LDS&TTDS/02_Ghi_Am_Bai_Giang/*.m4a
